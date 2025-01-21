@@ -150,7 +150,7 @@ def show_webpage(selected_key, content):
 def main():
     # Page configuration
     st.set_page_config(
-        page_title="Sales Training Assistant",
+        page_title="Sales Training Agent",
         page_icon="🎯",
         layout="wide"
     )
