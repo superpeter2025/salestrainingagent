@@ -156,7 +156,7 @@ def main():
     )
 
     # Main title with styling
-    st.title("🎯 Interactive Sales Training Assistant")
+    st.title("🎯 Interactive Sales Training Agent")
     st.markdown("""
     Welcome to your personal sales training guide! Select a topic below to explore 
     detailed materials and resources for improving your sales skills.
